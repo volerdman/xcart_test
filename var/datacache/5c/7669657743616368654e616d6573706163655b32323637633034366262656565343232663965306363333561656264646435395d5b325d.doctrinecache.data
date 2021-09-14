@@ -1,0 +1,33 @@
+1631624251
+s:626:"O:34:"XLite\Core\View\DTO\RenderedWidget":3:{s:7:"content";s:517:"<ul class="breadcrumb">
+      
+<li class="location-node">
+    <a href="" class="location-title home-link">Home</a>
+</li>
+
+      
+<li class="location-node">
+
+      <a href="fashion/" class="location-title"><span>Fashion</span></a>
+  
+  
+</li>
+
+      
+<li class="location-node">
+
+      <a href="fashion/accessories/" class="location-title"><span>Accessories</span></a>
+  
+  
+</li>
+
+      
+<li class="location-node last">
+
+      <span class="location-text">Festival Braslet Pack in Gold Tone</span>
+  
+  
+</li>
+
+  </ul>
+";s:6:"assets";a:0:{}s:8:"metaTags";a:0:{}}";

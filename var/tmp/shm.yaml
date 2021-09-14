@@ -1,0 +1,5 @@
+XLite\Model\Shipping\Method:
+    5: { processor: auctionInc, carrier: '', code: '', moduleName: XC_AuctionInc, translations: [{ code: en, name: ShippingCalc }], fromMarketplace: 1, iconURL: 'https://my.x-cart.com/storage/addons/XC/AuctionInc/method_icon.jpg' }
+    6: { processor: dhl, carrier: '', code: '', moduleName: XC_DHL, translations: [{ code: en, name: DHL }, { code: ru, name: DHL }], fromMarketplace: 1, iconURL: 'https://my.x-cart.com/storage/addons/XC/DHL/method_icon.jpg' }
+    7: { processor: Pilibaba, carrier: '', code: '', moduleName: XC_Pilibaba, translations: [{ code: en, name: 'Pilibaba Chinese Checkout' }], fromMarketplace: 1, iconURL: 'https://my.x-cart.com/storage/addons/XC/Pilibaba/method_icon.png' }
+    8: { processor: cdek, carrier: '', code: '', moduleName: QSL_CDEK, translations: [{ code: en, name: CDEK }, { code: ru, name: CDEK }], fromMarketplace: 1, iconURL: 'https://my.x-cart.com/storage/addons/QSL/CDEK/method_icon.jpg' }
